@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "769046653045",
+    "firebase_url": "https://doktuz-a5fd4.firebaseio.com",
+    "project_id": "doktuz-a5fd4",
+    "storage_bucket": "doktuz-a5fd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769046653045:android:32b4103bfe158e0d65703c",
+        "android_client_info": {
+          "package_name": "com.araoz.doktuz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769046653045-cqd7e4bvjsrk20q5tbt4njhogs7ihqcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.araoz.doktuz",
+            "certificate_hash": "addfc84274171632a1efd72c648387ec8cb58131"
+          }
+        },
+        {
+          "client_id": "769046653045-vbgtlqm2622tdvdljrv59eta3cntcgmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiotCPaMNs4hV46MwtVzdyNfYJJjxtyg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769046653045-vbgtlqm2622tdvdljrv59eta3cntcgmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

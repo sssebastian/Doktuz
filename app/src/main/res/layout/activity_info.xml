@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InfoActivity"
+    android:orientation="vertical"
+    android:background="@drawable/fondoinfo"
+    >
+    <include layout="@layout/action_bar_toolbar" ></include>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="116dp"
+        android:layout_gravity="left"
+        android:layout_margin="20dp"
+        android:layout_marginBottom="10dp"
+        android:paddingLeft="30dp"
+        android:paddingTop="20dp"
+        android:text="Al adquirir tu Dokuz Card, accedes a una Evaluación Completa al año y un Chat Médico para recibir
+        orientación médica, sin costo adicional. Además, tienes acceso a una lista de precios especiales en Consultas y Exámenes adicionales."
+        android:textColor="#000" />
+
+    <ExpandableListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/expl"
+        />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
